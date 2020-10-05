@@ -323,7 +323,7 @@ menu {
   background: #111111;
   color: #ddd;
   padding: 100px 0px;
-  position:relative;
+  position: relative;
 }
 .service_title {
   text-align: center;
@@ -454,6 +454,9 @@ menu {
   top: -27px;
   font-size: 18px;
   font-weight: 600;
+}
+section {
+  width: 100%;
 }
 /*team style*/
 .team {
@@ -679,6 +682,7 @@ textarea {
 }
 /*footer style*/
 footer {
+  width: 100%;
   background: #111111;
   height: 60px;
   color: #ddd;
