@@ -323,6 +323,7 @@ menu {
   background: #111111;
   color: #ddd;
   padding: 100px 0px;
+  position:relative;
 }
 .service_title {
   text-align: center;
